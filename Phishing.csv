@@ -45,8 +45,8 @@ O365 and Banking credentials,appdomain[.]cloud,Landing page,https://urlscan.io/d
 Office 365 credentials,pantheonsite[.]io,Landing page,https://urlscan.io/domain/pantheonsite.io
 Office 365 credentials,hostingerapp[.]com,Landing page,https://urlscan.io/domain/hostingerapp.com
 Office 365 credentials,sharepoint[.]com,Landing page,https://urlscan.io/domain/sharepoint.com
-O365/GSuite credentials,sites[.]google[.]com,https://blog.google/threat-analysis-group/countering-threats-iran/
-O365/GSuite credentials,dropbox[.]com,https://blog.google/threat-analysis-group/countering-threats-iran/
+O365/GSuite credentials,sites[.]google[.]com,Landing page,https://blog.google/threat-analysis-group/countering-threats-iran/
+O365/GSuite credentials,dropbox[.]com,Host Doc with URL,https://blog.google/threat-analysis-group/countering-threats-iran/
 Government Mail Portals,netlify[.]app,Landing page,https://mp.weixin.qq.com/s/CGHDuJAb4dav_th25yYpWA
 Government Mail Portals,github[.]io,Landing page,https://mp.weixin.qq.com/s/CGHDuJAb4dav_th25yYpWA
 Government Mail Portals,000webhostapp[.]com,Landing page,https://mp.weixin.qq.com/s/CGHDuJAb4dav_th25yYpWA
