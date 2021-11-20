@@ -4,6 +4,6 @@ Legitimate third-party Platform-as-a-Service (PaaS) providers are becoming incre
 
 Further detailed analysis available in the blog here:
 
-[Malware](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Malware.csv)
+[Abused Legitimate Services by Malware campaigns](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Malware.csv)
 
-[Phishing](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Phishing.csv)
+[Abused Legitimate Services by Phishing campaigns](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Phishing.csv)
