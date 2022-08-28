@@ -1,6 +1,7 @@
 ﻿Target,Service,Purpose,Source
 O365/Papyal creds,netlify[.]app,Kit Hostnames,https://twitter.com/BushidoToken/status/1375219410173100035
 Broadband,godaddysites[.]com,Landing page,https://urlscan.io/domain/godaddysites.com
+Broadband,boxmode[.]com,Landing page,https://urlscan.io/domain/boxmode.com
 Banking credentials,s[.]id,URL shortening,https://urlscan.io/domain/s.id
 "Webmail, Amazon, FB",gleeze[.]com,Landing page,https://urlscan.io/domain/gleeze.com
 "Social, broadband",weebly[.]com,Landing page,https://urlscan.io/domain/weebly.com
