@@ -7,3 +7,8 @@ Detailed analysis in the blog here: https://blog.bushidotoken.net/2021/11/levera
 [Abused Legitimate Services by Malware campaigns](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Malware.csv)
 
 [Abused Legitimate Services by Phishing campaigns](https://github.com/BushidoUK/Abused-Legitimate-Services/blob/main/Phishing.csv)
+
+### Papers
+- https://www.anomali.com/files/anomali-labs-reports/legit-services.pdf
+- https://www.forcepoint.com/sites/default/files/resources/files/forcepoint-security-labs-monsoon-analysis-report.pdf
+- https://community.netwitness.com/t5/netwitness-community-blog/wolves-among-us-abusing-trusted-providers-for-malware-operations/ba-p/519970
